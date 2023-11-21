@@ -1,4 +1,4 @@
-# Ex.07 Software Product Company Website
+               # Ex.07 Software Product Company Website
 ## Date:
 
 ## AIM:
@@ -883,6 +883,7 @@ style.css
 ```
 
 ## OUTPUT:
+![Screenshot 2023-11-21 104858](https://github.com/vasanth0908/softweb/assets/122000018/9639b007-1536-421d-835c-73c4b9c87399)
 
 
 ## RESULT:
